@@ -13,7 +13,7 @@ Free game for **training divided attention**
 ## Download
 - Download the latest release [here](http://bit.ly/tot-releases)
 
-<br>
+<br>README.md
 
 ## Support
 - You can buy me a coffee here: 
